@@ -22,7 +22,12 @@ $ npm install
 
 #executar projeto
 $ npm start
+
 ```
+## API Restfull
+
+Acesso a api
+http://localhost:3000/
 
 ## Running the app
 
