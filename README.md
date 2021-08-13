@@ -2,10 +2,26 @@
 
 Projeto back-end, teste marketeasy. Utilizando o framework [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+
+## Necessário conter node e nest instalado na máquina
+
+Node
+https://nodejs.org/pt-br/download/package-manager/
+
+Nest
+https://docs.nestjs.com/
+
+
+## Executar projeto
+
+Baixar o projeto em um diretório de sua preferência, acessar a pasta via prompt de comando e executar os comandos abaixo:
 
 ```bash
+#instalar dependência
 $ npm install
+
+#executar projeto
+$ npm start
 ```
 
 ## Running the app
@@ -34,6 +50,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## License
+## Author
 
-Nest is [MIT licensed](LICENSE).
+- Alex Santos
